@@ -1,5 +1,5 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
+BOT_TOKEN = "8065056962:AAH86QjSnru9XLHC4vAiDOKePhv262SNM5Q"
 OWNER_ID = 0
 TELEGRAM_API = 0
 TELEGRAM_HASH = ""
@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://karnansurya:unniveena7@ksrf2.nauucby.mongodb.net/?appName=ksrf2"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
